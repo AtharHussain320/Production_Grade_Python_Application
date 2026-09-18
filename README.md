@@ -42,7 +42,7 @@ No external Python packages are required.
 ## Project Structure
 
 ```text
-Final_Task_1_Production_App/
+Production_App/
 │
 ├── app.py
 ├── config.json
